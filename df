@@ -1,0 +1,43 @@
+[33mcommit a0c42c014d6bfcbab3bbcb6f51d896a2f9815d9a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Soheil Kazemy <soheil.xbox360@gmail.com>
+Date:   Thu Feb 26 21:56:56 2026 +0330
+
+    Update test2.py
+
+[33mcommit bf30e94b8977d76c4f63ee06f704864d19364ea3[m
+Merge: bdaaee8 30dd939
+Author: Soheil Kazemy <Soheil.xbox360@gmail.com>
+Date:   Thu Feb 26 21:45:26 2026 +0330
+
+    resolve conflict - keep test1.py
+
+[33mcommit bdaaee8a85756985be7001e02c0d7385c662c82c[m
+Merge: dd4bf85 84633c1
+Author: Soheil Kazemy <Soheil.xbox360@gmail.com>
+Date:   Thu Feb 26 21:38:38 2026 +0330
+
+    Second changes
+
+[33mcommit 30dd939323d9a12ed82818f5547ac49a265672be[m
+Author: Soheil Kazemy <soheil.xbox360@gmail.com>
+Date:   Thu Feb 26 21:35:30 2026 +0330
+
+    Update test1.py
+
+[33mcommit 84633c167e5d5ed892a4793cd5d15f5cda82f52d[m
+Author: Soheil Kazemy <soheil.xbox360@gmail.com>
+Date:   Thu Feb 26 21:30:56 2026 +0330
+
+    Update test1.py
+
+[33mcommit dd4bf8538fa4ec5d38cdff8111152dae5ec44cfb[m
+Author: Soheil Kazemy <Soheil.xbox360@gmail.com>
+Date:   Thu Feb 26 21:29:58 2026 +0330
+
+    add test1 file
+
+[33mcommit db9f7b79c23137d2087ee31103fecccc9718b35b[m
+Author: Soheil Kazemy <Soheil.xbox360@gmail.com>
+Date:   Thu Feb 26 19:10:23 2026 +0330
+
+    My files are here
